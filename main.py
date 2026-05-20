@@ -1,0 +1,1 @@
+# bug de exclusao corrigido.
