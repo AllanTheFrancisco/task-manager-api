@@ -1,4 +1,4 @@
-# Task Manager API 📋
+# Task Manager API 
 
 ## 1. Descrição do Projeto
 A **Task Manager API** é um sistema de gerenciamento de tarefas desenvolvido para modernizar e organizar o fluxo de trabalho da TechNova Solutions. O projeto resolve o antigo problema de desorganização, bugs recorrentes e perda de rastreabilidade, substituindo o compartilhamento de arquivos ZIP por um fluxo profissional de versionamento via Git.
